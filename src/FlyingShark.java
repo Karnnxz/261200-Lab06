@@ -12,5 +12,4 @@ public class FlyingShark extends Shark implements Flyable {
     void eat(Flyable creature) {
         System.out.println("FlyingShark caught a flying creature!");
     }
-
 }

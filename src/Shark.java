@@ -7,5 +7,4 @@ public class Shark extends Fish {
     void eat(Fish fish) {
         System.out.println(this.toString() + " is eating " + fish.toString());
     }
-
 }

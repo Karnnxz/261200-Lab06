@@ -17,5 +17,4 @@ void main() {
     Flyable flyer = new FlyingShark(); // A FlyingShark is-a Flyable
     fish.swim();                       // Calls Shark's swim()
     flyer.fly();                       // Calls FlyingShark's fly()
-
 }
